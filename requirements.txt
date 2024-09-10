@@ -5,3 +5,11 @@ Telethon==1.*
 pyromod==1.5
 TgCrypto==1.*
 pyrogram==2.*
+pyrofork
+tgcrypto
+pymongo[srv]==3.12.3
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
